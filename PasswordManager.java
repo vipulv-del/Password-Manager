@@ -1,6 +1,9 @@
 import java.util.*;
 import java.io.*;
 import java.util.Base64;
+import java.time.*;            // NEW: For working with dates and times
+import java.nio.file.*;        // NEW: For advanced file operations
+import java.security.*;        // NEW: For future password encryption/hashing
 
 public class PasswordManager {
 
